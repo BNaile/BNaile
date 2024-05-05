@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bnaile&label=Profile%20views&color=0e75b6&style=flat" alt="bnaile" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fill:96:96/1*v-fD7Gm_N59ipd5qNKzcXQ.gif">
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fill:96:96/1*v-fD7Gm_N59ipd5qNKzcXQ.gif">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naila-bayramova-7a4270202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naila-bayramova-7a4270202/" height="30" width="40" /></a>
 </p>
