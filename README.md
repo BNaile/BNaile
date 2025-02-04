@@ -39,9 +39,10 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
-  <a href="https://dbwear.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://dbwear.com/favicon.ico" alt="dbwear" width="30" height="40"/> 
-  </a>
+ <a href="https://dbwear.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/3523/3523887.png" alt="dbwear" width="40" height="40"/> 
+</a>
+
 </p>
 
 
